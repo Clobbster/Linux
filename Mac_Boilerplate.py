@@ -5,7 +5,7 @@ import os
 
 print("MAC_Boiler Initialized...")
 print(os.getcwd())
-print("Verifiying ~/.bash_profile exists...")
+print("Verifiying '~/.bash_profile' exists...")
 
 # if file exists :
 #     #Print exists here...
