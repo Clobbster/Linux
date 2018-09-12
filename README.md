@@ -1,4 +1,4 @@
-# Mac_Boiler_Plate
+# Mac_Boilerplate
 # The goal of this is to take a list of typical programs that I use and generate a script that I can call from github to setup my environment if need be. This will include terminal and background settings if possible
 
 # Creation and configuration of a bash_profile file
