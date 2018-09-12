@@ -1,24 +1,7 @@
 # This program will use the MAC OS syntax wrapped in python to create a boilerplate that can be used to configure
 # any MAC to a suitable environment for my requirements
 
-import os 
-
-print("MAC_Boiler Initialized...")
-print(os.getcwd())
-print("Verifiying '~/.bash_profile' exists...")
-
-# if file exists :
-#     #Print exists here...
-# else :
-#     #Print doesn't exist and create
-
-# Update ~/.bash_profile with code here
-# alias ll=‘ls -al’
-# alias ls=‘ls -GFh’
-# alias cl=‘clear’
-# alias tf=‘terraform’
-# alias py2=‘python’
-# alias py3=‘python3’
+import os
 
 # Install homebrew
 os.system("/usr/bin/ruby -e '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)'")
