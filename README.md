@@ -1,12 +1,5 @@
 # Mac_Boiler_Plate
-# The goal of this is to take a list of typical programs that I use and generate a script that I can call from
-# github to setup my environment if need be. 
-
-# I will endeavor to ensure that I can set terminal and background settings as well if possible. 
-
-Mac Init:
-
-# The following are things that I think are important to setup initially on a Mac for usability
+# The goal of this is to take a list of typical programs that I use and generate a script that I can call from github to setup my environment if need be. This will include terminal and background settings if possible
 
 # Creation and configuration of a bash_profile file
 1. Mkdir ~/.bash_profile
