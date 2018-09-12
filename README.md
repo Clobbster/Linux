@@ -1,15 +1,5 @@
 # Mac_Boilerplate
-# The goal of this is to take a list of typical programs that I use and generate a script that I can call from github to setup my environment if need be. This will include terminal and background settings if possible
-
-# Creation and configuration of a bash_profile file
-1. Mkdir ~/.bash_profile
-2. Nano ~/.bash_profile
-3. alias ll=‘ls -al’
-4. alias ls=‘ls -GFh’
-5. alias cl=‘clear’
-6. alias tf=‘terraform’
-7. alias py2=‘python’
-8. alias py3=‘python3’
+# The goal of this repo is to store everything that I typically use for working on a mac in a centralized location for easy access and setup of new machines.
 
 # Installation of homebrew
 1. /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
